@@ -44,7 +44,9 @@ Unfortunately, I lost access to my previous GitHub account, but you can still ch
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santipatino&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
+
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=santipatino&theme=radical&hide_border=false)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santipatino&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
