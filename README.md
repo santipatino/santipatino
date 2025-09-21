@@ -53,6 +53,4 @@ Unfortunately, I lost access to my previous GitHub account, but you can still ch
 
 ---
 
-[Visitor Count](https://visitcount.itsvg.in/api?id=santipatino&icon=0&color=0)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
