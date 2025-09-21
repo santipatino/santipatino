@@ -20,11 +20,6 @@
 - **Database**: PostgreSQL, MySQL, MongoDB.
 - **DevOps**: Docker, CI/CD pipelines.
 
-📚 **Learning Goals**:
-
-- Deepen my knowledge of **microservices** and **cloud-native development**.
-- Master **container orchestration** using **Kubernetes**.
-
 🔗 **Find me around the web**:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-patino-martinez)
