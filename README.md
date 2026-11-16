@@ -20,14 +20,6 @@
 - **Database**: PostgreSQL, MySQL, MongoDB.
 - **DevOps**: Docker, CI/CD pipelines.
 
-🔗 **Find me around the web**:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-patino-martinez)
-
-## 📂 **Old GitHub Account**
-
-Unfortunately, I lost access to my previous GitHub account, but you can still check out some of my earlier projects on this [Github](https://github.com/santipm29). While I’m no longer actively managing this account, it contains a collection of past work.
-
 ---
 
 💬 Feel free to reach out if you want to discuss software development, architecture, or collaborate on open-source projects!
